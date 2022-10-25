@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/agrathwohl/srtcli/issues"
   },
-  "homepage": "https://github.com/agrathwohl/srtcli#readme"
+  "homepage": "https://github.com/agrathwohl/srtcli#readme",
+  "dependencies": {
+    "arg": "^5.0.2",
+    "boxen": "^7.0.0",
+    "enquirer": "^2.3.6"
+  }
 }
